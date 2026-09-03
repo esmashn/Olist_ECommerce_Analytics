@@ -18,26 +18,29 @@ Handling the Olist dataset required rigorous data cleansing and complex relation
 ### 1. Executive Overview
 Focuses on macro-level KPIs, spatial revenue distribution, and peak purchasing hours.
 * **Insight:** São Paulo (SP) heavily dominates the market volume. Peak purchasing activity consistently occurs between 10:00 AM and 10:00 PM, indicating a strong correlation with regular waking hours rather than late-night shopping.
-> *(View below)*
-![Executive Overview](Page 1.png)
+
+<img width="1507" height="846" alt="Page 1" src="https://github.com/user-attachments/assets/a2595448-a858-49ea-9046-ed6de8d84706" />
+
 
 ### 2. Sales & Category Analysis
 Analyzes top-performing product categories and average freight costs against order volume.
 * **Insight:** *Health & Beauty* and *Watches & Gifts* are the primary revenue drivers. The scatter plot reveals that high freight costs do not strictly deter order volume in premium categories.
-> *(View below)*
-![Sales & Category Analysis](Page 2.png)
+  
+<img width="1500" height="844" alt="Page 2" src="https://github.com/user-attachments/assets/647ce472-811e-4947-8103-bcfae65360e1" />
+
 
 ### 3. Logistics & Customer Sentiment
 Explores the critical relationship between delivery performance and customer review scores.
 * **Insight:** There is a severe, quantifiable negative correlation between delivery delays and customer satisfaction. While the global average rating is 4.16, delayed orders drastically pull down the score, requiring immediate operational intervention in the slowest regions like AP and AM.
-> *(View below)*
-![Logistics & Customer Sentiment](Page 3.png)
+
+<img width="1501" height="845" alt="Page 3" src="https://github.com/user-attachments/assets/433d9de1-3fcb-49e4-9034-354be35a9108" />
+
 
 ### 4. Financial Health & Payments
 Breaks down payment types, cash flow, and installment habits.
 * **Insight:** Customers utilizing higher installment plans (up to 12 months) generate significantly larger average order values. Credit cards account for over 73% of all transactions, making seamless payment gateway integrations vital for Olist's cash flow.
-> *(View below)*
-![Financial Health & Payments](Page 4.png)
+
+<img width="1507" height="845" alt="Page 4" src="https://github.com/user-attachments/assets/5435d98a-2a28-41e6-8b9d-0067c0e47faf" />
 
 ---
 
